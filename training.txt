@@ -1,0 +1,28 @@
+Volkswagon Crafter Reg number KA-01-JD-1357 has the maximum fuel efficiency during the interval 21 May 2023 to 31 May 2023.
+From company Elis, Scania 750D was used for maximum hours.
+Ninety five total vehicles belong to Veddasta Fleet of Elis.
+In terms of electric vehicles, Volvo Model Y was the best performer of the month April 2023.
+A total of 1050 hours of utilization was achieved using 3 trucks and 2 crafters.
+In the 2nd week of July 2023, vehicle VW e-crafter Reg number KA-05-GD-1232 might be unavailable for courier service due to regular checkup.
+As per the records, Medel Y from Tesla has been behaving differently from past 1 week. You might want to take a look at vehicle stats.
+Peugeot Model WXC and reg number KA-09-PA-1223 is available to be electrified with Tesla Model T1 from 01 July 2023.
+The average SoC (state of charge) of LMV cars from Elis is 27%.
+Scania P280 reg number KA-01-OP-1289 was Idle for the maximum time in the last quarter.
+Volvo v60 is the maximum used vehicle for the past 2 months with 6323 kilometers.
+Volkswagon W785 has used 200 litres for 653 kilometers, not an efficient vehicle I will say.
+Seventy five percent vehicles(75%) are unavailable for operation during night due to vehicle inspection camp.
+The current price of unit litre of diesel is 32Kr.
+The electric usage cost based on past week is 7.32Kr per unit.
+Vehicles made in year 2020 are the best performing vehicles in all segment.
+Electric vehicles are less used for long range projects.
+Route optimization is currently not possible due to unavailablity of charging station data.
+Vehicles with battery older than 3 years are more idle than vehicles with newer battery.
+The idle time to charge electric vehicles is between 11am to 4pm due to high temperature.
+In the month of may 2023, the total power used for charging EVs is 2313 Kr.
+During the last month, a total of 53000 Kr was spent for fuel.
+Average time of running of EVs(electric vehicles) is 13.3 hours in a day.
+Average time of running of diesel vehicles is 19.1 hours in a day.
+Scania P32S was used for more than 20 hours in a day.
+Tyres of Volkswagon Crafter Reg number KA-01-JD-1357 are due for replacement tomorrow.
+The average of minimum state of charge (SoC) for electric vehicles is 11%.
+The average of maximum state of charge (SoC) for electric vehicles is 93%.
