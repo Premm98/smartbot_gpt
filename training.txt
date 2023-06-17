@@ -1,28 +1,19 @@
-Volkswagon Crafter Reg number KA-01-JD-1357 has the maximum fuel efficiency during the interval 21 May 2023 to 31 May 2023.
-From company Elis, Scania 750D was used for maximum hours.
-Ninety five total vehicles belong to Veddasta Fleet of Elis.
-In terms of electric vehicles, Volvo Model Y was the best performer of the month April 2023.
-A total of 1050 hours of utilization was achieved using 3 trucks and 2 crafters.
-In the 2nd week of July 2023, vehicle VW e-crafter Reg number KA-05-GD-1232 might be unavailable for courier service due to regular checkup.
-As per the records, Medel Y from Tesla has been behaving differently from past 1 week. You might want to take a look at vehicle stats.
-Peugeot Model WXC and reg number KA-09-PA-1223 is available to be electrified with Tesla Model T1 from 01 July 2023.
-The average SoC (state of charge) of LMV cars from Elis is 27%.
-Scania P280 reg number KA-01-OP-1289 was Idle for the maximum time in the last quarter.
-Volvo v60 is the maximum used vehicle for the past 2 months with 6323 kilometers.
-Volkswagon W785 has used 200 litres for 653 kilometers, not an efficient vehicle I will say.
-Seventy five percent vehicles(75%) are unavailable for operation during night due to vehicle inspection camp.
-The current price of unit litre of diesel is 32Kr.
-The electric usage cost based on past week is 7.32Kr per unit.
-Vehicles made in year 2020 are the best performing vehicles in all segment.
-Electric vehicles are less used for long range projects.
-Route optimization is currently not possible due to unavailablity of charging station data.
-Vehicles with battery older than 3 years are more idle than vehicles with newer battery.
-The idle time to charge electric vehicles is between 11am to 4pm due to high temperature.
-In the month of may 2023, the total power used for charging EVs is 2313 Kr.
-During the last month, a total of 53000 Kr was spent for fuel.
-Average time of running of EVs(electric vehicles) is 13.3 hours in a day.
-Average time of running of diesel vehicles is 19.1 hours in a day.
-Scania P32S was used for more than 20 hours in a day.
-Tyres of Volkswagon Crafter Reg number KA-01-JD-1357 are due for replacement tomorrow.
-The average of minimum state of charge (SoC) for electric vehicles is 11%.
-The average of maximum state of charge (SoC) for electric vehicles is 93%.
+Hatchbacks are one of the most popular car body types in terms of overall sales in India. A hatchback can be defined as a vehicle body type that comprises four doors along with an additional rear hatch that opens upward to access the boot space. Hatchbacks are generally designed with compact bodies and are perfect for comfortably seating up to five passengers. Nonetheless, the most striking feature of this segment is the boot: a space behind the rear seats that exists inside the car itself, rather than as a separate space. Thus, when you open the hinged boot of a hatchback, you are practically opening the car itself. 
+Hatchbacks are considered the best for city driving as they’re easy to manoeuvre through traffic and compact enough to drive on narrow streets. Their smaller two-box design makes them easier to park. Though there isn’t a specific criterion for size and engine displacement, hatchbacks usually come with a size of under 4 meters and an engine capacity of 0.8 to 1.5 litres. The most striking feature of this segment is its impeccable fuel economy and affordable price point.
+Derived from the Latin term “sedere” which means “to sit”, sedans are designed to provide utmost comfort and convenience for passengers both at the front as well as the rear. The major component of a sedan is its longer body that’s built with a three-box configuration consisting of pillars identified as A, B, and C pillars. Compared to hatchbacks, sedans have a separate boot compartment, which exists as an addition to the vehicle’s bodyline. Thus, when you open up a sedan’s boot, you’re opening just the boot and not the car itself. With the boot being a separate compartment, a sedan usually has a larger boot space than a hatchback.
+
+Sedans in India range from compact sedans measuring just under 4 meters to lengthy luxury sedans measuring more than 5 meters in length. The different construction of a sedan increases its price in comparison to hatchbacks but also allows for more interior passenger space and leg room. Larger capacity engines are more common in sedans, with the smallest being a 1.0-litre engine in the smaller sedans. In terms of engines, the smallest you will find on a sedan is a 1.0-litre engine, that only increases for the larger sedan cars.
+Quite popular in the Indian market, SUV is a car body-type that comprises vehicles that are both passenger vehicles as well as off-roaders. SUVs are generally large and measure well over the 4 meter mark, with compact SUVs being the exception, coming under 4 meters. Built with a tall bodyline, SUVs provide the driver with a commanding view of the road ahead. Moreover, SUVs have high ground clearance providing better terrain handling capability as well as a stance higher from the ground. This is a feature that makes them distinct from all other vehicle body-types.
+
+In terms of comfort, a compact SUV provides interior space similar to a premium hatchback while midsize and larger SUVs provide more spacious cabins. Their high ground clearance makes SUVs particularly suited to handling rough terrain, while they’re also equipped with terrain modes, 4-wheel drive systems and other off-road specific features. In terms of engines, SUVs feature torque-focused engines that provide better power output at lower RPMs for improved traction in rough terrain.
+Multi-utility vehicles (MUVs) or Multi-purpose vehicles (MPVs) are built for maximum practicality and utility. An MUV vehicle is often dubbed as a people carrier due to its ability to seat as many as 10 people. You will often find MUVs being the car of choice for long distance travel due to their increased interior space and higher seating capacity.
+
+MUVs are generally built with a high strength chassis frame, capable of carrying extra passengers as well as luggage. In terms of day-to-day utility, MUVs generally offer better fuel efficiency when compared to SUVs that are similarly sized. Typical powertrains found on MUVs feature large capacity engines of 1.5-litres or more, with some specific cars coming with 1.0-litre engines. For those who want practicality and efficiency over rugged looks and off-road capabilities, an MUV could be the perfect fit.
+A body type that isn’t conventional like other bodylines, Coupes are known for their sporty avatar and aerodynamic stance. Coupe is less a body type and more of a body shape as it refers to any car featuring a sloping roofline. While usually associated with two-door sports cars, the coupe bodyline is finding its way to sedans and SUVs as well.
+
+Coupe cars are generally performance oriented vehicles, and are thus capable of going to triple digit speeds in a matter of seconds. They pack in large engines, and are all about sheer performance. Coupes are therefore generally preferred when OEMs need to develop a fast, high-performance, top of the line vehicle.
+When it comes to vehicle body-types, there is nothing more desirable than a convertible. Convertible cars are a body-type that is characterized either by a foldable or a completely removable roof. Generally, the roof on-board a convertible is made up of canvas or vinyl material, but it can also be a hard top. This allows you to feel the wind in your hair as you drive and provides nothing short of pure driving pleasure.
+
+Thus, the striking feature of a convertible is the fact that the roof is not only foldable but also removable in some cases. Convertibles are also fitted with sophisticated mechanics that fold the roof in a step-by-step manner within a few seconds. Convertibles are versatile to give you the freedom to enjoy pleasant weather and keep yourself protected when the weather is bad.Pickup trucks are a fairly unique vehicle body-type, offering immense utility in a package that is usable. The unique feature of this body type is that there is a large open cargo space behind the passenger section. This cargo space provides high payload capacity that combines well with the off-roading capability as well as passenger carrying ability of a pickup truck.
+
+The dimensions of a pickup truck are therefore evidently large and the body is usually constructed with a built-on-chassis frame so that maximum load can be carried. A pickup truck is therefore the best vehicle segment if you are someone who is looking for something that has been built for utility above anything else. A pickup truck also comes handy when you need to carry loads around more often, and do not want to opt for a wholly commercial vehicle.
